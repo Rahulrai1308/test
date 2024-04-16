@@ -1,0 +1,1 @@
+   os.startfile(os.path.join(music_dir, songs[0]))
